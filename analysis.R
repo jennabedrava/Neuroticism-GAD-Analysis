@@ -1,3 +1,10 @@
+#########################################################################################################################
+## Project: Neuroticism and GAD-7 Mobile Treatment Efficacy
+## Objectives: Quantify impact of neuroticism score on PROMPT mobile health treatment efficacy
+## Date: Last updated 04/14/2022
+## Author: Jenna Bedrava
+#########################################################################################################################
+
 library(table1)
 library(nlme)
 library(geepack)

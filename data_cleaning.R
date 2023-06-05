@@ -1,3 +1,10 @@
+#########################################################################################################################
+## Project: Neuroticism and GAD-7 Mobile Treatment Efficacy
+## Objectives: Clean data for modeling and visualizations
+## Date: Last updated 04/14/2022
+## Author: Jenna Bedrava
+#########################################################################################################################
+
 library(tidyr)
 library(tidyverse)
 library(stringr)
